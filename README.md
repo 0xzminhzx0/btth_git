@@ -13,7 +13,7 @@ git config --global user.email "abc@zy.com"
 ```
 
 ## Phần 2: Khởi tạo Git repo
-Lệnh để khời tạo Git repo là: `git init 
+Lệnh để khời tạo Git repo là: ``git init 
 
 
 ## Phần 3: Commit
